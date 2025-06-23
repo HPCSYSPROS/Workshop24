@@ -1,6 +1,6 @@
 # Benchmarking and Continuous Performance Monitoring of HPC Resources using the XDMoD Application Kernel Module
 
-[DOI]
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15724847.svg)](https://doi.org/10.5281/zenodo.15724847)
 
 **Authors**
 * Nikolay A. Simakov, State University of New York at Buffalo, Center for Computational Research
