@@ -8,21 +8,21 @@
 ---
 ### [Advancing ODA Standardization Through an Open Source Dashboard](https://github.com/HPCSYSPROS/Workshop24/tree/main/Advancing_ODA_Standardization_Through_An_Open_Source_Dashboard)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15724847.svg)](https://doi.org/10.5281/zenodo.15724847)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15724831.svg)](https://doi.org/10.5281/zenodo.15724831)
 
 **Authors:** Tim Osborne, Rachel Palumbo, Leak Huk, Ryan Adamson, Rob Jones, Corwin Lester
 
 
 ### [Benchmarking and Continuous Performance Monitoring of HPC Resources using the XDMoD Application Kernel Module](https://github.com/HPCSYSPROS/Workshop24/tree/main/Benchmarking_and_continuous_Performance_monitoring_of_HPC_resources_using_XDMOD_application_kernel_module)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7320199.svg)](https://doi.org/10.5281/zenodo.7320199)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15724847.svg)](https://doi.org/10.5281/zenodo.15724847)
 
 **Author:** Nikolay A. Simakov 
 
 
 ### [Beyond the Hype: Uncovering the Real I/O Needs of LLMs](https://github.com/HPCSYSPROS/Workshop24/tree/main/Beyond_the_Hype-Uncovering_the_real_IO_Needs_of_LLMs)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7320206.svg)](https://doi.org/10.5281/zenodo.7320206)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15724856.svg)](https://doi.org/10.5281/zenodo.15724856)
 
 **Authors:** Subramanian Kartik, Glenn K. Lockwood
 
