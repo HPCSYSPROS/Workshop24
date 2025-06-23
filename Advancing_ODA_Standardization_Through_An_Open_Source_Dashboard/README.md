@@ -1,6 +1,6 @@
 # Advancing ODA Standardization Through an Open Source Dashboard
 
-[DOI]
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15724831.svg)](https://doi.org/10.5281/zenodo.15724831)
 
 **Authors**
 * Tim Osborne, Oak Ridge National Laboratory (ORNL)
