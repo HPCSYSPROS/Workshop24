@@ -8,7 +8,7 @@
 ---
 ### [Advancing ODA Standardization Through an Open Source Dashboard](https://github.com/HPCSYSPROS/Workshop24/tree/main/Advancing_ODA_Standardization_Through_An_Open_Source_Dashboard)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15724831.svg)](https://doi.org/10.5281/zenodo.15724831)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15724847.svg)](https://doi.org/10.5281/zenodo.15724847)
 
 **Authors:** Tim Osborne, Rachel Palumbo, Leak Huk, Ryan Adamson, Rob Jones, Corwin Lester
 
