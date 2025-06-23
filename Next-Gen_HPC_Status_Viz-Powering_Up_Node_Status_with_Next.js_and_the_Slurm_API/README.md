@@ -1,6 +1,6 @@
 # Next-Gen HPC Status Viz: Powering Up Node Status with Next.js and the Slurm API
 
-[DOI]
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15724875.svg)](https://doi.org/10.5281/zenodo.15724875)
 
 **Authors**
 * Johnathan Lee, Arizona State University
