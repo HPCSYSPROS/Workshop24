@@ -29,7 +29,7 @@
 
 ### [Next-Gen HPC Status Viz: Powering Up Node Status with Next.js and the Slurm API](https://github.com/HPCSYSPROS/Workshop24/tree/main/Next-Gen_HPC_Status_Viz-Powering_Up_Node_Status_with_Next.js_and_the_Slurm_API)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7320217.svg)](https://doi.org/10.5281/zenodo.7320217)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15724875.svg)](https://doi.org/10.5281/zenodo.15724875)
 
 **Authors:** Johnathan Lee, Jason Yalim
 
