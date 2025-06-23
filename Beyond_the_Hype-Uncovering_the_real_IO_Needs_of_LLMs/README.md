@@ -1,6 +1,6 @@
 # Beyond the Hype: Uncovering the Real I/O Needs of LLMs
 
-[DOI]
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15724856.svg)](https://doi.org/10.5281/zenodo.15724856)
 
 **Authors**
 * Subramanian Kartik, VAST Data Inc
