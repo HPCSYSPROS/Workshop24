@@ -1,6 +1,6 @@
 # Cluster Resource Management for Sustainable and Efficient Computing
 
-[DOI]
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14806846.svg)](https://doi.org/10.5281/zenodo.14806846)
 
 **Authors**
 * Andrei Bersatti, Georgia Institute of Technology
