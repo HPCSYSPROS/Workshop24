@@ -1,6 +1,6 @@
 # SStack: Software Stacks for Easier and Cleaner Software Builds on HPC
 
-[DOI]
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16540183.svg)](https://doi.org/10.5281/zenodo.16540183)
 
 **Authors**
 * Strahinja Trecakov, New Mexico State University
