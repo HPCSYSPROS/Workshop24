@@ -1,6 +1,6 @@
 # Dynamic Login Node Resource Control and Monitoring with Arbiter 3
 
-[DOI]
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16541343.svg)](https://doi.org/10.5281/zenodo.16541343)
 
 **Authors**
 * Jackson McKay, University of Utah, Center for High Performance Computing
