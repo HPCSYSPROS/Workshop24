@@ -50,7 +50,7 @@
 
 ### [Dynamic Login Node Resource Control and Monitoring with Arbiter 3](https://github.com/HPCSYSPROS/Workshop24/tree/main/dynamic_login_node_resource_control_and_monitoring_with_arbriter3)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7320231.svg)](https://doi.org/10.5281/zenodo.7320231)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16541343.svg)](https://doi.org/10.5281/zenodo.16541343)
 
 **Authors:** Jackson McKay, Kai Forrest, Paul Fischer
 
