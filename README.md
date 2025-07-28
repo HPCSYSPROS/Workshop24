@@ -43,7 +43,7 @@
 
 ### [Cluster Resource Management for Sustainable and Efficient Computing](https://github.com/HPCSYSPROS/Workshop24/tree/main/cluster_resource_management_for_sustainable_and_efficient_computing)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7320231.svg)](https://doi.org/10.5281/zenodo.7320231)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14806846.svg)](https://doi.org/10.5281/zenodo.14806846)
 
 **Authors:** Andrei Bersatti, Aaron Jezghani
 
