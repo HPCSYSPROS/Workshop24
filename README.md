@@ -36,7 +36,7 @@
 
 ### [SStack: Software Stacks for Easier and Cleaner Software Builds on HPC](https://github.com/HPCSYSPROS/Workshop24/tree/main/SStack-software_stacks_for_easier_and_cleaner_software_builds_on_HPC)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7320227.svg)](https://doi.org/10.5281/zenodo.7320227)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16540183.svg)](https://doi.org/10.5281/zenodo.16540183)
 
 **Authors:** Strahinja Trecakov, Nicholas Von Wolff, Mohammad Al-Tahat
 
