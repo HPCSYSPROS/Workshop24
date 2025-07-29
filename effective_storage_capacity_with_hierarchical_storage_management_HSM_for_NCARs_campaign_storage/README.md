@@ -1,6 +1,6 @@
 # Increasing Effective Storage Capacity with Hierarchical Storage Management (HSM) for NCAR’s Campaign Storage
 
-[DOI]
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16541348.svg)](https://doi.org/10.5281/zenodo.16541348)
 
 **Authors**
 * Aric Werner, National Center for Atmospheric Research (NCAR)
