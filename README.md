@@ -57,7 +57,7 @@
 
 ### [Increasing Effective Storage Capacity with Hierarchical Storage Management (HSM) for NCAR’s Campaign Storage](https://github.com/HPCSYSPROS/Workshop24/tree/main/effective_storage_capacity_with_hierarchical_storage_management_HSM_for_NCARs_campaign_storage)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7320231.svg)](https://doi.org/10.5281/zenodo.7320231)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16541348.svg)](https://doi.org/10.5281/zenodo.16541348)
 
 **Authors:** Aric Werner, Joseph Mendoza, Ben Kirk
 
