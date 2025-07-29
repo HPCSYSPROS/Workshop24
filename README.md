@@ -64,6 +64,6 @@
 
 ### [Kubernetes Resource Scaling via Batch Node Conversion on the Anvil Supercomputer](https://github.com/HPCSYSPROS/Workshop24/tree/main/kubernetes_resource_scaling_via_batch_node_conversion_on_the_Anvil_supercomputer)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7320231.svg)](https://doi.org/10.5281/zenodo.7320231)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16576621.svg)](https://doi.org/10.5281/zenodo.16576621)
 
 **Authors:** Erik Gough, LJ Lumas
