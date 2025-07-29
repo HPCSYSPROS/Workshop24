@@ -1,6 +1,6 @@
 # Kubernetes Resource Scaling via Batch Node Conversion on the Anvil Supercomputer
 
-[DOI]
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16576621.svg)](https://doi.org/10.5281/zenodo.16576621)
 
 **Authors**
 * Erik Gough, Purdue University
